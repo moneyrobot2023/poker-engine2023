@@ -1,9 +1,13 @@
 poker-engine
 ============
 
-Poker engine for Heads-up Omaha at TheAIGames.com
 
-This version of our Poker engine has been set up for local use, for your own convenience. Notice that this engine is not *only* for Heads-up Omaha and can play other versions of poker as well. We will probably host other poker competitions in the future.
+
+Покер-движок для хедз-ап Омахи на TheAIGames.com
+
+Эта версия нашего покерного движка была настроена для локального использования, для вашего удобства. Обратите внимание, что этот движок предназначен не только для игры в хедз-ап омаху и может использоваться и в других версиях покера. Вероятно, в будущем мы будем проводить другие соревнования по покеру.
+
+Для компиляции (Windows cmd):
 
 To compile (Windows cmd):
     
