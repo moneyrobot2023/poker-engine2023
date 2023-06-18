@@ -10,6 +10,7 @@ poker-engine
 Эта версия нашего покерного движка была настроена для локального использования, для вашего удобства. Обратите внимание, что этот движок предназначен не только для игры в хедз-ап омаху и может использоваться и в других версиях покера. Вероятно, в будущем мы будем проводить другие соревнования по покеру.
 
 To compile (Windows cmd):
+----
     
     cd [project folder]
     dir /b /s *.java>sources.txt
@@ -18,12 +19,14 @@ To compile (Windows cmd):
     del sources.txt
 
 To compile (Linux):
+----
 
     cd [project folder]
     mkdir bin/
     javac -sourcepath src/ -d bin/ `find src/ -name '*.java' -regex '^[./A-Za-z0-9]*$'`
     
 To run:
+----
 
     java nl.starapple.backend.RunPoker 2000 [your bot1] [your bot2] 2>err.txt 1>out.txt
     
