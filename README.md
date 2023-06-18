@@ -3,7 +3,7 @@ poker-engine
 
 
 
-Покер-движок для хедз-ап Омахи на TheAIGames.com
+Покер-движок poker-engine.com
 ----
 ![poker-engine](https://github.com/moneyrobot2023/poker-engine2023/blob/master/poker.jpg )
 
